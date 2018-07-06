@@ -9,11 +9,7 @@ import styled from 'styled-components';
 class App extends Component {
   render() {
     return (
-        <div>
-            <SayFullName name="Fedya" surname="Maximov" link="vk.com" />
-            <SayFullName name="Fedya" surname="Maximov" link="vk.com" />
-            <SayFullName name="Fedya" surname="Maximov" link="vk.com" />
-        </div>
+        <h1>Hello World</h1>
     );
   }
 }
